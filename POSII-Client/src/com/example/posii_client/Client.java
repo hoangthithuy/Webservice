@@ -40,7 +40,7 @@ public class Client extends Activity {
 		setContentView(R.layout.client_client);
 		btnconnect=(Button)findViewById(R.id.btnConnect);
 		txtView=(TextView)findViewById(R.id.txtText);
-		// hic
+		// hic hic
 	}
   public void btnClick( View v)
   {
